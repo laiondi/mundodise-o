@@ -1,2 +1,2 @@
 # mundodise-o
-BLOG DE DISEÑO
+pag de diseño
